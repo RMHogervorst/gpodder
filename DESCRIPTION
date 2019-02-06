@@ -1,0 +1,17 @@
+Package: gpodder
+Type: Package
+Title: Connect to the 'gpodder api'
+Version: 0.1.0
+Authors@R: person("Roel M.", "Hogervorst", email = "hogervorst.rm@gmail.com", role = c("aut", "cre"),comment = c(ORCID = "0000-0001-7509-0328"))
+Description: Podcasts live in your phone, but gpodder tells you more.
+    Call the <gpodder.net> API and download information.
+    This package is magic because it gives you while saving you from ...s
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    spelling,
+    testthat
+Language: en-US
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
